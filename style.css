@@ -171,7 +171,9 @@ img{
     color: #282828;
 }
 
-
+.navbar-toggler-icon {
+    border-radius: 25%;
+    background-color: #add8e6;
 
 /* Fourth section */
 .container p{
